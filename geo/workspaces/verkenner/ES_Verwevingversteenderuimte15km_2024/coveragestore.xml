@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:-14fa</id>
+  <name>ES_Verwevingversteenderuimte15km_2024</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/ES_Verwevingversteenderuimte15km_2024.geotiff</url>
+</coverageStore>

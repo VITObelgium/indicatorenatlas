@@ -1,0 +1,64 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-3a719f4f:145ad5e3219:-7ff6</id>
+  <name>ref_miralijn_2015</name>
+  <nativeName>ref_miralijn_2015</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-1bdb09c7:1430b383fcb:-2050</id>
+  </namespace>
+  <title>ref_miralijn_2015</title>
+  <keywords>
+    <string>features</string>
+    <string>ref_miralijn_2015</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;Belge 1972 / Belgian Lambert 72&quot;, 
+  GEOGCS[&quot;Belge 1972&quot;, 
+    DATUM[&quot;Reseau National Belge 1972&quot;, 
+      SPHEROID[&quot;International 1924&quot;, 6378388.0, 297.0, AUTHORITY[&quot;EPSG&quot;,&quot;7022&quot;]], 
+      TOWGS84[-106.8686, 52.2978, -103.7239, 0.3366, 0.457, -1.8422, -1.2747], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6313&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4313&quot;]], 
+  PROJECTION[&quot;Lambert_Conformal_Conic_2SP&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9802&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, 4.367486666666666], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 90.0], 
+  PARAMETER[&quot;standard_parallel_1&quot;, 51.166667233333335], 
+  PARAMETER[&quot;false_easting&quot;, 150000.013], 
+  PARAMETER[&quot;false_northing&quot;, 5400088.438], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;standard_parallel_2&quot;, 49.833333900000014], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;31370&quot;]]</nativeCRS>
+  <srs>EPSG:31370</srs>
+  <nativeBoundingBox>
+    <minx>23178.619140625</minx>
+    <maxx>254038.984375</maxx>
+    <miny>153936.96875</miny>
+    <maxy>243911.515625</maxy>
+    <crs class="projected">EPSG:31370</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>2.541743025217608</minx>
+    <maxx>5.865763325685705</maxx>
+    <miny>50.68198776684305</miny>
+    <maxy>51.50440022304266</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--642b418f:145980798ff:-7da3</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

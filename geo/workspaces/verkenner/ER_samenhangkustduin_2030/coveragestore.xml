@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:4e18</id>
+  <name>ER_samenhangkustduin_2030</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/ER_samenhangkustduin_2030.geotiff</url>
+</coverageStore>

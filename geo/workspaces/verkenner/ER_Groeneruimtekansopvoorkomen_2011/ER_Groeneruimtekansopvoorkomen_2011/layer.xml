@@ -1,0 +1,18 @@
+<layer>
+  <name>ER_Groeneruimtekansopvoorkomen_2011</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:e96</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1fc7</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:e95</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

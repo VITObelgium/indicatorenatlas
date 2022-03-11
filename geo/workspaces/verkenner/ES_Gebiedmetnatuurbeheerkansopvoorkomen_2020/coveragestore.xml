@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:-864</id>
+  <name>ES_Gebiedmetnatuurbeheerkansopvoorkomen_2020</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/ES_Gebiedmetnatuurbeheerkansopvoorkomen_2020.geotiff</url>
+</coverageStore>

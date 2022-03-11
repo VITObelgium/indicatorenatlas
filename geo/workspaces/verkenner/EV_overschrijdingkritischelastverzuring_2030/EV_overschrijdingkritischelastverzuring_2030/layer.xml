@@ -1,0 +1,18 @@
+<layer>
+  <name>EV_overschrijdingkritischelastverzuring_2030</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:498e</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1fc5</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:498d</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

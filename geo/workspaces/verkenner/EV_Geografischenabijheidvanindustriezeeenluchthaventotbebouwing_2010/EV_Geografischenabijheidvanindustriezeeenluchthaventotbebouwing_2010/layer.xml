@@ -1,0 +1,18 @@
+<layer>
+  <name>EV_Geografischenabijheidvanindustriezeeenluchthaventotbebouwing_2010</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:5efd</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1f91</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:5efc</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

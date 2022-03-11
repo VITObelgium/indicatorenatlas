@@ -1,0 +1,18 @@
+<layer>
+  <name>REF_geluidsbelastingdoorwegverkeerrekeninghoudendmetdebehoefteaanrustsavondsensnachts_2030</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:2ed</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-200f</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:2ec</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

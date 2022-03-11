@@ -1,0 +1,18 @@
+<layer>
+  <name>gemeente</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:-1f51</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1f65</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-1bdb09c7:1430b383fcb:-1f52</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

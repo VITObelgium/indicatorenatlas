@@ -1,0 +1,18 @@
+<layer>
+  <name>RR_Vlaanderenaanwezigheidbebouwing_2021</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:45bc</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1fdd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:45bb</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

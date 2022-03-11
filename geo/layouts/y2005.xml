@@ -1,0 +1,15 @@
+<layout>
+    <decoration type="text" affinity="bottom,left" offset="10,10">
+            <option name="message" value="2005"/>
+            <option name="font-size" value="18"/>
+            <option name="font-bold" value="true"/>
+            <option name="halo-radius" value="2"/>
+    </decoration>
+    <decoration type="text" affinity="bottom,right" offset="10,10">
+            <option name="message" value="© VMM, INBO, VITO"/>
+            <option name="font-size" value="10"/>
+            <option name="font-color" value="#666666"/>
+            <option name="halo-radius" value="2"/>
+    </decoration>
+</layout>
+

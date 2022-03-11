@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="nl"><Esri><MetaID>{39167CE6-0680-4688-B842-BD34F4687C2D}</MetaID><CreaDate>20090903</CreaDate><CreaTime>15330000</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\RepairGeometry" Date="20090903" Time="153300">RepairGeometry chimere3intl DELETE_NULL chimere3intl</Process></lineage></DataProperties></Esri></metadata>

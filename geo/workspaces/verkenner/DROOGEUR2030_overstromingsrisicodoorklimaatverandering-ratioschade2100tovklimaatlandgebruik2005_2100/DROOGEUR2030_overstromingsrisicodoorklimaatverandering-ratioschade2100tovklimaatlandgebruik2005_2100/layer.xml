@@ -1,0 +1,18 @@
+<layer>
+  <name>DROOGEUR2030_overstromingsrisicodoorklimaatverandering-ratioschade2100tovklimaatlandgebruik2005_2100</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:a19</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1fe0</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:a18</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

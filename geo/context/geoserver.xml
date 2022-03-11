@@ -1,0 +1,23 @@
+<Context docBase="/usr/local/geoserver">
+<Resource name="jdbc/indicatorenatlas" auth="Container"
+  factory="org.apache.tomcat.jdbc.pool.DataSourceFactory"
+  type="javax.sql.DataSource"
+  driverClassName="org.postgresql.Driver"
+  url="jdbc:postgresql://db:5432/indicatorenatlas"
+  username="verkenner"
+  password="v3rk3nn3r"
+  maxActive="10"
+  maxIdle="6"
+  minIdle="4"
+  initialSize="4"
+  suspectTimeout="60"
+  timeBetweenEvictionRunsMillis="30000"
+  minEvictableIdleTimeMillis="60000"
+  removeAbandoned="true"
+  removeAbandonedTimeout="300"
+  logAbandoned="true"
+  testOnBorrow="true"
+  testWhileIdle="true"
+  validationQuery="select 1"
+  logValidationErrors="true" />
+</Context>

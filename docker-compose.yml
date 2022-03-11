@@ -1,0 +1,91 @@
+---
+version: "3.9"
+
+services:
+  haproxy:
+    image: indicatorenatlas-haproxy:latest
+    deploy:
+      mode: replicated
+      resources:
+        limits:
+          cpus: "0.25"
+          memory: 96M
+        reservations:
+          cpus: "0.25"
+          memory: 64M
+      update_config:
+        order: start-first
+    healthcheck:
+      test: ["CMD", "bash", "-c", "exec 3<>/dev/tcp/localhost/80 && echo -e 'GET /haproxy-health HTTP/1.1\r\nhost: localhost\r\nConnection: close\r\n\r\n' >&3 && cat <&3 | grep -q '200 OK'"]
+    ports:
+      - published: 8080
+        target: 80
+        protocol: tcp
+        mode: ingress
+    networks:
+      - haproxy
+
+  app:
+    image: indicatorenatlas-app:latest
+    deploy:
+      mode: replicated
+      resources:
+        limits:
+          cpus: "1.00"
+          memory: 512M
+        reservations:
+          cpus: "0.25"
+          memory: 256M
+    networks:
+      - haproxy
+
+  geoserver:
+    image: indicatorenatlas-geo:latest
+    deploy:
+      mode: replicated
+      resources:
+        limits:
+          cpus: "1.50"
+          memory: 3072M
+        reservations:
+          cpus: "0.25"
+          memory: 1024M
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/geoserver/web"]
+      start_period: 300s
+    environment:
+      CATALINA_OPTS: >-
+        -Djava.awt.headless=true
+        -Xms1536m
+        -Xmx1536m
+        -XX:MaxMetaspaceSize=512m
+        -Dorg.apache.catalina.connector.RECYCLE_FACADES=true
+        -Dorg.apache.el.parser.COERCE_TO_ZERO=false
+    networks:
+      - haproxy
+      - db
+
+  db:
+    image: indicatorenatlas-db:latest
+    deploy:
+      mode: replicated
+      resources:
+        limits:
+          cpus: "1.00"
+          memory: 3072M
+        reservations:
+          cpus: "0.10"
+          memory: 1024M
+    ports:
+      - 5432:5432
+    networks:
+      - db
+
+networks:
+  haproxy:
+    driver: overlay
+    attachable: true
+  db:
+    driver: overlay
+    attachable: true
+

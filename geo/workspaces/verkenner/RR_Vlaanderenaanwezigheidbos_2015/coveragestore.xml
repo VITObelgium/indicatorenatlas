@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:190b</id>
+  <name>RR_Vlaanderenaanwezigheidbos_2015</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/RR_Vlaanderenaanwezigheidbos_2015.geotiff</url>
+</coverageStore>

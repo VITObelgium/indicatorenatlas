@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:13c2</id>
+  <name>RR_Vlaanderenaanwezigheidopenruimte_2019</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/RR_Vlaanderenaanwezigheidopenruimte_2019.geotiff</url>
+</coverageStore>

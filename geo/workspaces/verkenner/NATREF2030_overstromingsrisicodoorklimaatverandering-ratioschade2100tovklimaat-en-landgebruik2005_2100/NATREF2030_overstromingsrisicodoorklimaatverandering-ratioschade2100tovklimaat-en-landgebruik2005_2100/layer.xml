@@ -1,0 +1,18 @@
+<layer>
+  <name>NATREF2030_overstromingsrisicodoorklimaatverandering-ratioschade2100tovklimaat-en-landgebruik2005_2100</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:2c00</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fe2</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:2bff</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

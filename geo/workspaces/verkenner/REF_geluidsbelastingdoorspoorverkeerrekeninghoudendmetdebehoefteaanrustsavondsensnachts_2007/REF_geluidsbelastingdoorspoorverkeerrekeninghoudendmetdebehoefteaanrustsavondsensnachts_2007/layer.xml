@@ -1,0 +1,18 @@
+<layer>
+  <name>REF_geluidsbelastingdoorspoorverkeerrekeninghoudendmetdebehoefteaanrustsavondsensnachts_2007</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:-1b10</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-202e</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:-1b11</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

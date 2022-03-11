@@ -1,0 +1,18 @@
+<layer>
+  <name>EV_Aantalinwonersperhagebiedmetnatuurbeheer_2009</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:44c9</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1fdc</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:44c8</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

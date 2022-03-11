@@ -1,0 +1,11 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-1bdb09c7:1430b383fcb:-1d25</id>
+  <name>RR_Vlaanderenaanwezigheidgebiedmetnatuurbeheer_2018</name>
+  <type>GeoTIFF</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:/content/tifs/RR_Vlaanderenaanwezigheidgebiedmetnatuurbeheer_2018.geotiff</url>
+</coverageStore>

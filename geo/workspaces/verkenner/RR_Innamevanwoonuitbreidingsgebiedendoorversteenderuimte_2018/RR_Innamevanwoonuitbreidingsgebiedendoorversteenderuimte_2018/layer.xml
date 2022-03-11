@@ -1,0 +1,18 @@
+<layer>
+  <name>RR_Innamevanwoonuitbreidingsgebiedendoorversteenderuimte_2018</name>
+  <id>LayerInfoImpl-1bdb09c7:1430b383fcb:245</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-1bdb09c7:1430b383fcb:-1f72</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-1bdb09c7:1430b383fcb:244</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>

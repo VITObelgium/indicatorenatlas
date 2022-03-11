@@ -1,0 +1,14 @@
+<dataStore>
+  <id>DataStoreInfoImpl-1bdb09c7:1430b383fcb:-1f47</id>
+  <name>wegen</name>
+  <type>Shapefile</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="url">file:/content/shapefiles/wegen/wegen.shp</entry>
+    <entry key="namespace">http://verkenner</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>

@@ -1,0 +1,23 @@
+<dataStore>
+  <id>DataStoreInfoImpl--642b418f:145980798ff:-7da3</id>
+  <name>postgis</name>
+  <type>PostGIS (JNDI)</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-1bdb09c7:1430b383fcb:-2051</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="Estimated extends">true</entry>
+    <entry key="fetch size">1000</entry>
+    <entry key="encode functions">false</entry>
+    <entry key="Expose primary keys">true</entry>
+    <entry key="Support on the fly geometry simplification">true</entry>
+    <entry key="preparedStatements">false</entry>
+    <entry key="jndiReferenceName">java:comp/env/jdbc/indicatorenatlas</entry>
+    <entry key="schema">verkenner</entry>
+    <entry key="dbtype">postgis</entry>
+    <entry key="namespace">http://verkenner</entry>
+    <entry key="Loose bbox">true</entry>
+  </connectionParameters>
+  <__default>false</__default>
+</dataStore>
